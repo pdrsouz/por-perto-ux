@@ -24,18 +24,6 @@ Um aplicativo que centraliza, em uma única tela, as informações necessárias 
 
 **Usuário:** turistas, pessoas em viagem a trabalho ou recém-chegadas a uma cidade, que querem encontrar rapidamente um lugar confiável para comer, perto de onde estão.
 
-## Telas desenvolvidas
-
-### Visão geral
-
-![Visão geral das telas](telas/visao-geral.png)
-
-| Localização | Início | Filtros |
-|:---:|:---:|:---:|
-| <img src="telas/01-localizacao.png" width="250"> | <img src="telas/02-inicio.png" width="250"> | <img src="telas/03-filtros.png" width="250"> |
-| **Sem resultados** | **Detalhes** | **Rota** |
-| <img src="telas/04-sem-resultados.png" width="250"> | <img src="telas/05-detalhes.png" width="250"> | <img src="telas/06-rota.png" width="250"> |
-
 ## Figma
 
-[Acessar o projeto no Figma](COLE_AQUI_O_LINK_DO_FIGMA)
+[Acessar o projeto no Figma](https://www.figma.com/design/PqryMmnfEZCeo9aL4TtWyi/Sem-t%C3%ADtulo?t=jFdPCMeZq1IVLoo3-1)
